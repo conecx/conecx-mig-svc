@@ -1,4 +1,4 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": ["local>onecx/onecx-renovate//config/apps/quarkus.json5"]
+    "extends": ["local>conecx/onecx-renovate//config/apps/quarkus.json5"]
 }
